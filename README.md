@@ -1,2 +1,3 @@
-# htmlresume
-GitHub Pages: https://dixonhpinto.github.io/htmlresume/
+# htmlresume  
+Practicing HTML  
+GitHub Pages: samhpinto.github.io/git_test1/
