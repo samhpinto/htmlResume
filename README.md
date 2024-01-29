@@ -1,3 +1,3 @@
 # htmlResume  
 Practicing HTML  
-GitHub Pages: samhpinto.github.io/git_test1/
+GitHub Pages: samhpinto.github.io/htmlResume/
